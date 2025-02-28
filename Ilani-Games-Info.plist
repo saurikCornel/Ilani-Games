@@ -6,9 +6,11 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>soaringeaglesgame.top</key>
+			<key>ilanigames.top</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
 				<true/>
 			</dict>
 		</dict>

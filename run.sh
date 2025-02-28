@@ -3,7 +3,7 @@
 # Параметры
 BUNDLE_ID="com.gmsllani.games"
 APPLE_ID="6742645706"
-REMOTE_URL="git@github.com:saurikCornel/Ilani-Games.git"
+REMOTE_URL="git@github.com:saurikCornel/Ilani.git"
 PROJECT_NAME="Ilani Games"
 SCHEME_NAME="project"
 
