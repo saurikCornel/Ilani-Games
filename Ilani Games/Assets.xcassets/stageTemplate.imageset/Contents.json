@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "stageTemplate.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
